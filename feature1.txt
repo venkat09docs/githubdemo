@@ -1,2 +1,3 @@
 This is commit from Feature1
 Fix in the release 1.0
+Fix in the release 1.1
